@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #333;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.homepage {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.header h1 {
+    color: #007bff; /* Blue */
+    font-size: 3em;
+}
+
+.header p {
+    font-size: 1.2em;
+    color: #f1f1f1; /* Light Grey */
+}
+
+.content p {
+    margin-top: 20px;
+    font-size: 1.5em;
+}
+
+button {
+    margin-top: 30px;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+/* Existing CSS */
+
+/* Homepage styles */
+.homepage .header p {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ff9800;  /* Bright color for visibility */
+    text-align: center;
+    background-color: #333; /* Dark background for contrast */
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+/* Additional styles can be here */
